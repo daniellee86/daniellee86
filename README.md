@@ -3,10 +3,12 @@
     Hello. 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  
+ 
 <p>This is my primary account for repositories containing projects such as; Full-Stack e-commerce websites, customer data collation and visualisation tools, social-media applications and marketing landing pages.<p>
 <p>code from practice / studying various things such as languages, frameworks, libraries, design patterns, UI features etc can be found on my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a>  
 </div>
+
+##
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -24,9 +26,10 @@
 
 ##
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniellee86&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniellee86&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniellee86&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniellee86&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniellee86&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniellee86&theme=github_dark)
+
 
 </div>
 
