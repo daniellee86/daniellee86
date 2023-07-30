@@ -4,8 +4,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-<p>This is my primary account for projects such as; Full-Stack Websites, Web Applications, Web-Based Tools and Landing Pages.<p>
-<p>Code from Studying - Practice - Bootcamps can be found on my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a></p>     
+<p>On this primary account you will find a collection of larger and more comprehensive projects.<p>
+<p>For smaller projects, code from my learning journey, practice sessions and bootcamps, you can check out my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a></p>     
    
 <h3 align="left">Languages and Tools:</h3>
 
