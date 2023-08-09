@@ -5,7 +5,7 @@
   </h1>
 
 <p>On this primary account you will find a collection of larger and more comprehensive projects.<p>
-<p>For smaller projects, code from my learning journey, practice sessions and bootcamps, you can check out my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a></p>     
+<p>For smaller projects, code from practice sessions and bootcamps, you can check out my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a></p>     
    
 <h3 align="left">Languages and Tools:</h3>
 
