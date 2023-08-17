@@ -1,10 +1,10 @@
 <div align="center" margin="0">
   <h1>
-    Hello. 
+    01101000 01100101 01101100 01101100 01101111. 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-<p>On this primary account you will find a collection of larger and more comprehensive projects.<p>
+<p>primary account for larger and more comprehensive projects.<p>
 <p>For smaller projects, code from practice sessions and bootcamps, you can check out my secondary account: <a href="https://github.com/daniellee862" target="_blank">HERE</a></p>     
    
 <h3 align="left">Languages and Tools:</h3>
